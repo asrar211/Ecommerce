@@ -44,7 +44,7 @@ const MobMenu = () => {
         initial={{ x: '-100%' }} 
         animate={{ x: isMenu ? '0%' : '-100%' }} 
         transition={{ type: "spring", stiffness: 60 }} 
-        className={`bg-white w-[70%] h-[100vh] absolute top-0 z-20 border-r-2`}
+        className={`bg-white w-[70%] h-[100%] absolute top-0 z-20 border-r-2`}
       >
           <div className="flex justify-between mx-5 py-5">
             <h1 className="text-xl font-semibold junge">BRAND</h1>
