@@ -14,7 +14,7 @@ const NewArrivals = () => {
   };
 
   return (
-    <div className='mx-[140px] max-[1400px]:mx-[10px]'>
+    <div className='px-[140px] max-[1400px]:px-[10px] w-[100vw] overflow-hidden'>
       <div className='mt-10'>
         <h2 className='text-center text-2xl'>New Arrivals</h2>
       </div>
