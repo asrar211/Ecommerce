@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Product-1",
+        "description": "A high-quality product with exceptional features.",
+        "price": "100",
+        "discountedPrice": "70",
+        "imageLink": "https://via.placeholder.com/150/0000FF/808080?text=Product+1"
+    },
+    {
+        "id": 2,
+        "title": "Product-2",
+        "description": "An innovative product designed to meet your needs.",
+        "price": "150",
+        "discountedPrice": "120",
+        "imageLink": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Product+2"
+    },
+    {
+        "id": 3,
+        "title": "Product-3",
+        "description": "A reliable and durable product for everyday use.",
+        "price": "200",
+        "discountedPrice": "160",
+        "imageLink": "https://via.placeholder.com/150/00FF00/000000?text=Product+3"
+    },
+    {
+        "id": 4,
+        "title": "Product-4",
+        "description": "A premium product that offers top-notch performance.",
+        "price": "250",
+        "discountedPrice": "180",
+        "imageLink": "https://via.placeholder.com/150/FFFF00/000000?text=Product+4"
+    },
+    {
+        "id": 5,
+        "title": "Product-5",
+        "description": "A versatile product suitable for a variety of tasks.",
+        "price": "300",
+        "discountedPrice": "220",
+        "imageLink": "https://via.placeholder.com/150/000000/FFFFFF?text=Product+5"
+    },
+    {
+        "id": 6,
+        "title": "Product-6",
+        "description": "A stylish product that combines form and function.",
+        "price": "350",
+        "discountedPrice": "270",
+        "imageLink": "https://via.placeholder.com/150/FFFFFF/000000?text=Product+6"
+    },
+    {
+        "id": 7,
+        "title": "Product-7",
+        "description": "A versatile product suitable for a variety of tasks.",
+        "price": "300",
+        "discountedPrice": "220",
+        "imageLink": "https://via.placeholder.com/150/000000/FFFFFF?text=Product+5"
+    },
+    {
+        "id": 8,
+        "title": "Product-8",
+        "description": "A stylish product that combines form and function.",
+        "price": "350",
+        "discountedPrice": "270",
+        "imageLink": "https://via.placeholder.com/150/FFFFFF/000000?text=Product+6"
+    }
+]
